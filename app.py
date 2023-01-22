@@ -15,7 +15,7 @@ from scipy import stats
 st.set_option('deprecation.showfileUploaderEncoding', False)
 # Loading saved model from Drive.
 from keras.models import load_model
-model = load_model('/content/drive/My Drive/Deep Learning FDP/Face dataset/Facemodel.h5')
+model = load_model('Facemodel.h5')
 FACE_CLASSES = ['ben_afflek', 'elton_john','jerry_seinfeld','madonna','mindy_kaling']
 html_temp = """
    <div class="" style="background-color:blue;" >
