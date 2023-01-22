@@ -62,9 +62,9 @@ else:
   #image = cv2.imdecode(file_bytes, 1)
   st.image(image,caption='Uploaded Image.', use_column_width=True)
     
-if st.button("Predict Expression"):
+if st.button("Predict Celebrity Through Face"):
   result=import_and_predict(image)
-  st.success('Model has predicted the image expression is   {}'.format(result))
+  st.success('Model has predicted the image  is of celebrity   {}'.format(result))
 if st.button("About"):
   st.header(" Deepak Moud")
   st.subheader("Neural Network Trainer")
