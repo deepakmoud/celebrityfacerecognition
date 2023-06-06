@@ -21,8 +21,8 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">Vepsun Technologies</p></center> 
-   <center><p style="font-size:30px;color:white;margin-top:10px;">Session on Transfer Learning</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">Session on Multicalss Classification</p></center> 
+   <center><p style="font-size:30px;color:white;margin-top:10px;">Face Recognition using CNN</p></center> 
    </div>
    </div>
    </div>
@@ -73,7 +73,7 @@ html_temp = """
    <div class="" style="background-color:orange;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:20px;color:white;margin-top:10px;">Deep Learning Transfer learning</p></center> 
+   <center><p style="font-size:20px;color:white;margin-top:10px;">Deep Learning </p></center> 
    </div>
    </div>
    </div>
